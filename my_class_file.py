@@ -58,3 +58,5 @@ class MyClass:
             print(i)
 
         self.this_stupid_method_is_static()
+
+# TODO: Add sub/child class
